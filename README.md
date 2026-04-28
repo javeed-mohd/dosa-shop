@@ -10,4 +10,5 @@
 * Erra Karam
 
 ## Egg Dosa
-* Dosa Batter
+* Dosa Batter  
+* 2 Eggs
