@@ -11,5 +11,5 @@
 
 ## Egg Dosa
 * Dosa Batter  
-* 1 Egg  
+* 1/2 Egg  
 * Oil and Karam
